@@ -13,22 +13,23 @@ If you wish to make the first step on the way towards your current Ektron web pr
 
 If you wish to make the first step on the way towards your current Ektron web project improvement - CMS2CMS: Migration Plugin can assist you. It’s just a matter of a few mouse clicks to move your Ektron to WordPress with any extra skills or installations required. 
 
-Supported WordPress versions: 3.x 
-The Following are the Supported Entities that you can migrate from Ektron to WordPress: 
-pages
-content images 
-internal links
+*Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
-Additional Migration Options:
+= The Following are the Supported Entities that you can migrate from Ektron to WordPress: =
+* **pages
+* **content images 
+* **internal links
+
+= Additional Migration Options: =
 - clear WordPress data before migration
 
-Features of Automated Migration:
-Free Demo Available - CMS2CMS users are provided with a possibility to estimate a  website migration process in action.
-Simplicity - CMS2CMS expects no previous  experience to get comfortable to how it works and therefore is widely used by both developers and average users.  
-Speed - due to the automated process, CMS2CMS website migration can be carried out within a very short period of time (usually 15 min).
-Live Support - CMS2CMS Support Team is available 100% of the migration way. 
+= Features of Automated Migration: =
+* **Free Demo Available - CMS2CMS users are provided with a possibility to estimate a  website migration process in action.
+* **Simplicity - CMS2CMS expects no previous  experience to get comfortable to how it works and therefore is widely used by both developers and average users.  
+* **Speed - due to the automated process, CMS2CMS website migration can be carried out within a very short period of time (usually 15 min).
+* **Live Support - CMS2CMS Support Team is available 100% of the migration way. 
 
-Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Ektron and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.
+* **Note.The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Ektron and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.
 
 == Installation ==
 
