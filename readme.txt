@@ -18,6 +18,10 @@ If you wish to make the first step on the way towards your current Ektron web pr
 
 *Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
+= There is Free Demo available (migration of limited number of pages, user, comment. etc.) =
+= Full Migration starts from $9. =
+
+
 = The Following are the Supported Entities that you can migrate from Ektron to WordPress: =
 * *pages*
 * *content images* 
