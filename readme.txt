@@ -16,7 +16,7 @@ If you wish to make the first step on the way towards your current Ektron web pr
 *Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
 *There is Free Demo available (migration of limited number of pages).*
-*Full Migration starts from $9.*
+= *Full Migration starts from $9.*
 
 = Video =
 [youtube https://www.youtube.com/watch?v=3XDFI-_3380]
