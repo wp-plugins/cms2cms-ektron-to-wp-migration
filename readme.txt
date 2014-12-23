@@ -37,10 +37,10 @@ If you wish to make the first step on the way towards your current Ektron web pr
 
 *Note.The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Ektron and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
-Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
-Phone support – 24 hours a day, Monday – Friday
-Live Chat support – 24 hours a day, Monday – Friday
-Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+= Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours: = 
+- Phone support – 24 hours a day, Monday – Friday
+- Live Chat support – 24 hours a day, Monday – Friday
+- Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
 
 More info: http://www.cms2cms.com/supported-cms/ektron-to-wordpress-migration/?utm_source=Ektron&utm_medium=Link&utm_campaign=WordPress_plugins
 
