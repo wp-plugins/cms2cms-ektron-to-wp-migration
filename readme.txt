@@ -30,7 +30,7 @@ If you wish to make the first step on the way towards your current Ektron web pr
 = Additional Migration Options: =
 - clear WordPress data before migration
 - 301 redirects from old URLs to new URLs
-- forms*
+- forms
 
 = Features of Automated Migration: =
 * Free Demo Available - CMS2CMS users are provided with a possibility to estimate a  website migration process in action.
